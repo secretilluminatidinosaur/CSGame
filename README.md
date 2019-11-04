@@ -1,6 +1,6 @@
 # CSGame
-Contributors: 
-  Bianca Finamore- secretilluminatidinosaur
-  Nicholas Vastano - 
-  Ruiting Feng
-  Sarah Hawbaker
+Contributors: \n
+  Bianca Finamore- secretilluminatidinosaur \n
+  Nicholas Vastano - \n
+  Ruiting Feng \n
+  Sarah Hawbaker \n
