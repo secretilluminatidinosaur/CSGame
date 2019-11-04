@@ -1,6 +1,8 @@
 # CSGame
 Contributors:
-  - Bianca Finamore- secretilluminatidinosaur
-  - Nicholas Vastano -
+  - Bianca Finamore
+  - Nicholas Vastano
   - Ruiting Feng 
   - Sarah Hawbaker 
+  
+## Project Goals
