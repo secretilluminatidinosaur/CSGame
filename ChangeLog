@@ -1,0 +1,12 @@
+#Change Log
+
+1. Added a tutorial cutscene.
+2. Added base house sprites and living room sprites
+3. Addresses will be implemented as sprites, while data can be implemented in the background
+4. Implemented methods which can be used if answers are correct or wrong (titled thusly). Can be reused 
+5. Method “testHouse” is implemented to test out the users recognition of an address as “0x_some 8 digit hex number
+6. Method "inHouse1" is implemented to test the users recognition of data stored in an address
+7. Method "readystart" is implemented to transition between scenes
+8. Method "showPointerville" is implemented to transition between scenes
+9. Method "ExplorePointerville" is implemented to test the user on what's been learned up until this point
+10. Final polish is added to make the level look complete
