@@ -1,6 +1,7 @@
 # CSGame
 Contributors:
   - Bianca Finamore
+  - Jordan Allen
   - Nicholas Vastano
   - Ruiting Feng 
   - Sarah Hawbaker 
