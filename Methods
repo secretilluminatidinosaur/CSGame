@@ -1,19 +1,19 @@
-#Methods:
+Methods:
 
-#####StartUp: Presents opening text and first scene
+StartUp: Presents opening text and first scene
 
-#####Tutorial: Plays scene explaining first section of level
+Tutorial: Plays scene explaining first section of level
 
-#####testHouse: Asks user for argument to be compared to a constant value. Loops until values are equal
+testHouse: Asks user for argument to be compared to a constant value. Loops until values are equal
 
-#####inHouse1: Transitions to new scene and asks user for argument and loops until it matches a constant value
+inHouse1: Transitions to new scene and asks user for argument and loops until it matches a constant value
 
-#####readystart: Transitions to new scene
+readystart: Transitions to new scene
 
-#####showPointerville: Transitions to new scene
+showPointerville: Transitions to new scene
 
-#####ExplorePointerville: Executes the following sequence of events twice. Displays text, then asks user for an argument, then loops until it
+ExplorePointerville: Executes the following sequence of events twice. Displays text, then asks user for an argument, then loops until it
   matches a constant value
   
-#####pickHouse: Provides the player with the option of which event they'd like to see. Uses helper functions based on that choice to
+pickHouse: Provides the player with the option of which event they'd like to see. Uses helper functions based on that choice to
   provide the player with the content they've chosen
