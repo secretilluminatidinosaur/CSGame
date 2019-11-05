@@ -5,4 +5,3 @@ Contributors:
   - Ruiting Feng 
   - Sarah Hawbaker 
   
-## Project Goals
